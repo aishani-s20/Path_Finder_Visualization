@@ -15,7 +15,7 @@ MIN_WIDTH, MIN_HEIGHT = 400, 450
 PANEL_HEIGHT = 100
 CONTROLS_HEIGHT = 50
 rows, cols = 20, 20
-obstacles = int(0.3 * rows * cols)
+obstacles = int(0.4 * rows * cols)
 
 BUTTON_COLOR = (70, 130, 180)  # Steel blue
 BUTTON_HOVER = (100, 150, 200)  # Lighter blue
